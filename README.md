@@ -1,11 +1,9 @@
 
 
-[![NodeJS with Webpack](https://github.com/hejialianghe/Senior-FrontEnd/actions/workflows/webpack.yml/badge.svg?branch=main)](https://github.com/hejialianghe/Senior-FrontEnd/actions/workflows/webpack.yml) [![GitHub forks](https://img.shields.io/github/forks/hejialianghe/Senior-FrontEnd.svg?style=flat-square)](https://github.com/hejialianghe/Senior-FrontEnd/network) [![GitHub stars](https://img.shields.io/github/stars/hejialianghe/Senior-FrontEnd.svg?style=flat-square)](https://github.com/hejialianghe/Senior-FrontEnd/stargazers) [![GitHub issues](https://img.shields.io/github/issues/hejialianghe/Senior-FrontEnd.svg?style=flat-square)](https://github.com/hejialianghe/Senior-FrontEnd/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/hejialianghe/Senior-FrontEnd.svg?style=flat-square)](https://github.com/hejialianghe/Senior-FrontEnd/commits/master)
-
 
 ## 1. Preface
 
-As a front-end development engineer, the blogger knows the importance of growth. Most of the current market is API engineer; Is only able to use API does not understand the principle, in the long run, become replaceable people, how to become a senior development engineer! That's what it takes to be a senior development engineer! Follow my blog to learn, you can understand the web full stack engineer knowledge system, to get their own learning direction.
+As a fullstack development engineer on blockchain, the blogger knows the importance of growth. Most of the current market is API engineer; Is only able to use API does not understand the principle, in the long run, become replaceable people, how to become a senior development engineer! That's what it takes to be a senior development engineer! Follow my blog to learn, you can understand the web3 full stack engineer knowledge system, to get their own learning direction.
 
 ## 2. Study Program
 
@@ -97,7 +95,7 @@ As a front-end development engineer, the blogger knows the importance of growth.
 
 ## 3. For a Star
 
-If there is a harvest, give a start oh, this project open source free reading, do not set up any obstacles to prevent reading!
+If there is a harvest, pls give a star, this project open source free reading, do not set up any obstacles to prevent reading!
 
 
 
